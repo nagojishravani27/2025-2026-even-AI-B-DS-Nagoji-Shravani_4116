@@ -1,4 +1,5 @@
 WEEK_5: 10-03-26
+
 21.write the code to perform the following operations
 a.Z-score
 b.Statistical Inference
